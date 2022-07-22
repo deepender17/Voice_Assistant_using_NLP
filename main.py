@@ -40,7 +40,7 @@ def greetUser():
     else:
         speak("Good Evening!")
        
-    asstname = str("Samantha")
+    asstname = str("DEXX")
     speak("I am your assistant, " + asstname)
     speak("Please tell me how can I help you?")
    
